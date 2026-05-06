@@ -1,6 +1,6 @@
 # Team-Manager
 
-TaskPilot is a team task management web application built using Flask. The application helps teams create, manage, and track tasks efficiently through a clean dashboard interface.
+Team task manager is a team task management web application built using Flask. The application helps teams create, manage, and track tasks efficiently through a clean dashboard interface.
 
 ## Features
 
